@@ -1,0 +1,7 @@
+jax==0.4.20
+jaxlib==0.4.20
+brax==0.9.3
+optax
+chex
+jaxopt
+tensorboard
